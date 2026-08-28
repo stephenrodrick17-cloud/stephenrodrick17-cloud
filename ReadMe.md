@@ -13,15 +13,26 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=stephenrodrick17-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stephenrodrick17-cloud&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stephenrodrick17-cloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🧠 NeuroVision AI — Brain MRI Analysis
+AI-assisted framework for brain MRI analysis combining image preprocessing, U-Net segmentation, YOLO-based detection and Grad-CAM explainability.
 
----
-[![](https://komarev.com/ghpvc/?username=stephenrodrick17-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
+👁️ OpticNova — Eye Disease Detection
+AI-based eye disease analysis targeting conditions such as Glaucoma, Diabetic Retinopathy and AMD, using medical imaging datasets and AI models.
+
+🌱 Aquarevive — Greywater Purification
+A biotechnology project exploring algae-based greywater purification using Chlorella vulgaris and Spirulina platensis.
+
+🧮 Carbon Footprint Calculator
+A web-based application designed to estimate and visualize carbon emissions based on user inputs.
+
+🚨 SOS Detection
+A technology-based project focused on detecting emergency situations and providing rapid assistance.
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
