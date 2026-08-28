@@ -21,20 +21,57 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-🧠 NeuroVision AI — Brain MRI Analysis
-AI-assisted framework for brain MRI analysis combining image preprocessing, U-Net segmentation, YOLO-based detection and Grad-CAM explainability.
 
-👁️ OpticNova — Eye Disease Detection
-AI-based eye disease analysis targeting conditions such as Glaucoma, Diabetic Retinopathy and AMD, using medical imaging datasets and AI models.
+### 🧠 NeuroVision AI
+**AI-Assisted Brain MRI Analysis**
 
-🌱 Aquarevive — Greywater Purification
-A biotechnology project exploring algae-based greywater purification using Chlorella vulgaris and Spirulina platensis.
+An end-to-end medical imaging framework combining **image preprocessing, U-Net segmentation, YOLO-based tumor detection, and Grad-CAM explainability** for brain MRI analysis.
 
-🧮 Carbon Footprint Calculator
-A web-based application designed to estimate and visualize carbon emissions based on user inputs.
+**Tech Stack:**  
+`Python` `Deep Learning` `U-Net` `YOLO` `Computer Vision` `Grad-CAM`
 
-🚨 SOS Detection
-A technology-based project focused on detecting emergency situations and providing rapid assistance.
+🔗 [View Repository](https://github.com/stephenrodrick17-cloud/Neurovision-AI)
+
+---
+
+### 👁️ OpticNova
+**AI-Based Eye Disease Detection**
+
+An AI-powered healthcare project focused on detecting **Glaucoma, Diabetic Retinopathy, and Age-Related Macular Degeneration (AMD)** using medical imaging and intelligent analysis.
+
+**Tech Stack:**  
+`Python` `AI/ML` `Computer Vision` `Medical Imaging` `Gemini API`
+
+🔗 [View Repository](https://github.com/stephenrodrick17-cloud/OpticNova)
+
+---
+
+### 💧 Aquarevive
+**Algae-Based Greywater Purification**
+
+A biotechnology project exploring biological greywater treatment using **Chlorella vulgaris and Spirulina platensis**, with a focus on sustainable water purification.
+
+**Tech Stack:**  
+`Biotechnology` `Environmental Research` `Data Analysis`
+
+🔗 [View Repository](https://github.com/stephenrodrick17-cloud/Cerium-Nanoparticles-)
+
+---
+
+---
+
+### 🚨 SOS Detection
+
+A technology-driven emergency detection system designed to identify potential emergency situations and support rapid response.
+
+**Tech Stack:**  
+`Python` `Machine Learning` `Web Technologies`
+
+🔗 [View Repository](https://github.com/stephenrodrick17-cloud/SOS-detection-)
+
+---
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
