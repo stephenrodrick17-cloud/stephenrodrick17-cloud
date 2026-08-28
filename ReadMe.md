@@ -13,7 +13,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=stephenrodrick17-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
+<p align="center">
+  <img src="./trophy.svg" alt="Stephen Rodrick GitHub Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
